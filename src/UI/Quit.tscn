@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="Quit" type="Button"]
+margin_top = 249.0
+margin_right = 1391.0
+margin_bottom = 495.0
+size_flags_horizontal = 3
+size_flags_vertical = 3
+text = "Quit"

@@ -1,0 +1,11 @@
+[gd_scene format=2]
+
+[node name="Title" type="Label"]
+anchor_left = 0.5
+anchor_right = 0.5
+margin_left = -358.5
+margin_top = 287.0
+margin_right = 358.5
+margin_bottom = 574.0
+text = "My first Godot fane
+"
